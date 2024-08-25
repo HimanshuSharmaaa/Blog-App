@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    line-height: 1.4;
+    box-sizing: border-box;
+}
+
+.leftPart{
+    width: 66%;
+}
+
+.rightPart{
+    width: 33%;
+}
